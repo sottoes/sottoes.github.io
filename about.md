@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am a class of 2024 Chemistry Major at California Polytechnic State University San Luis Obispo. I have an interest specifically in polymer chemistry and hope to expand on this intrest as my career at cal poly continues. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently working on a project with the Hamachi Group on Covalent Organic Frameworks, specifically on their surface chemistry since my freshman year. We are working on several papers that will be published in the near future. 
+
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[sottoes@calpoly.edu](mailto:sottoes@calpoly.edu)
