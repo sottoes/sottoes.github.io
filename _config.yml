@@ -3,15 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Sachi Ottoes
 
 # Short bio or description (displayed in the header)
-description: A Short Description
+description: I am a second year undergraduate chemistry student who is currently working with the Hamachi group on polymer surface chemistry research. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: 
+avatar: https://raw.githubusercontent.com/[sottoes]/[sottoes.github.io]/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -20,12 +20,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: sottoes@calpoly.edu
+  facebook: 
   flickr:
   github: 
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/sachi-ottoes-a38a86188/ 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
